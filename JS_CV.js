@@ -25,7 +25,7 @@ var countAge = function(yearBorn) {
 
 
   return age
-}
+}//close but need to keep at it
 
 d.getFullYear();var dateDiff = Math.abs(d.getFullYear() - yearBorn);var age = Math.ceil(dateDiff / (10 * 36 * 24))
 
